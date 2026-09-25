@@ -1,2 +1,13 @@
-# Capstone_Project_ShubhamYadav
-This is the final Capstone project I worked upon as part of my course 
+# Capstone Project Submission
+
+It has 3 layers 
+
+- SQL
+  - Schema
+  - Files
+  - Queries
+
+- Python
+  - 
+
+- Gen-AI
